@@ -27,7 +27,7 @@ New here? The tables below are the whole shop. Start with [vefr](https://github.
 | [**play-nice-contracts**](https://github.com/rylee-bee-labs/play-nice-contracts) | The shared rules and words every agent in the lab plays by. |
 | [**ci-harness**](https://github.com/rylee-bee-labs/ci-harness) | Reusable, pinned GitHub Actions workflows: tests, secret scanning, smoke checks. |
 | [**uat-harness**](https://github.com/rylee-bee-labs/uat-harness) | A user-acceptance-test driver for games and apps. |
-| [**personal-world**](https://github.com/rylee-bee-labs/personal-world) | Worlds: a personal home screen for the estate. |
+| [**worlds**](https://github.com/rylee-bee-labs/worlds) | Worlds: a personal home screen for the estate. |
 
 ### 🍯 How the hive works
 
